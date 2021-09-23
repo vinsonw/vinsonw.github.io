@@ -661,9 +661,9 @@ post:
 # Based on GitHub Issues
 # See: https://utteranc.es
 utterances:
-  repo:
+  repo: vinsonw/vinsonw.github.io
   issue_term: pathname
-  label: utterances
+  label: #
   theme: github-light
   theme_dark: github-dark
   crossorigin: anonymous
